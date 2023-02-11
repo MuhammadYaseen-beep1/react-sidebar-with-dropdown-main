@@ -1,0 +1,27 @@
+.outer-box {
+    border: 1px solid #333;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: #fffcfc;
+  }
+
+
+  .heading {
+    background-color: #fffcfc;
+    color: #0c0c0c;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: left;
+  }
+
+  .btn-orange {
+    color: white;
+    background-color: rgb(233, 136, 46);
+  }
+
+  
